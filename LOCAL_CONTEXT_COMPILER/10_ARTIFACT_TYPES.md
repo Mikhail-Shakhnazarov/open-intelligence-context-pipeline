@@ -1,14 +1,15 @@
-# 05 LOCAL CONTEXT COMPILER — ARTIFACT TYPES
+# 10 ARTIFACT TYPES
 
 ## METADATA // 00
 
 - MACHINES FOR THINKING
-- LOCAL CONTEXT COMPILER
-- ARTIFACT TYPES (CANONICAL OUTPUTS)
-- DERIVATIVE CORPUS: EARMARK OPEN INTELLIGENCE PROTOCOL (OPENIP) v1.0 (FEBRUARY 2026)
+- LOCAL CONTEXT COMPILER PROTOCOL
+- ARTIFACT TYPES
+- CANONICAL OUTPUTS
 - AUTHOR: MIKHAIL SHAKHNAZAROV
 - DATE: FEBRUARY 2026
 - LICENSE: CC BY-SA 4.0
+- https://creativecommons.org/licenses/by-sa/4.0/
 
 ## OVERVIEW // 01
 
@@ -20,7 +21,7 @@ Canonical bundle:
 - `explanation_trace.md`
 - `candidate_updates.md`
 
-The bundle shares a stable identifier declared in each file’s header.
+The bundle shares a stable identifier declared in each file's header.
 
 ## CONTEXT PACK: COMPILED CONTEXT // 02
 
@@ -53,7 +54,7 @@ Minimum required sections:
 Acceptance criteria:
 
 - each included item has a justification;
-- justifications point to canonical records or explicit rules (not “intuition”);
+- justifications point to canonical records or explicit rules (not intuition);
 - trace can be audited without access to the runtime that consumed the pack.
 
 ## CANDIDATE UPDATES // 04
@@ -67,7 +68,7 @@ Minimum required sections:
   - proposed target location (which durable file or registry would hold it),
   - derivation marking (stated / inferred / assumed),
   - evidence pointers,
-  - expiration/review triggers (if applicable).
+  - expiration or review triggers (if applicable).
 
 Acceptance criteria:
 
@@ -76,7 +77,7 @@ Acceptance criteria:
 
 ## REGISTRIES (DURABLE) // 05
 
-The compiler eventually requires durable registries (operator-owned):
+The compiler requires durable registries (operator-owned):
 
 - entities (people, projects, systems);
 - preferences and style contracts;
@@ -85,4 +86,5 @@ The compiler eventually requires durable registries (operator-owned):
 
 Registries are governed artifacts with strong coordinates; they are not caches.
 
-CC BY-SA 4.0 — Mikhail Shakhnazarov, February 2026
+CC BY-SA 4.0 - Mikhail Shakhnazarov, February 2026
+

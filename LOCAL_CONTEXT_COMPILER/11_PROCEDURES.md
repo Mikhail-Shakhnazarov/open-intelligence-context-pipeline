@@ -1,14 +1,15 @@
-# 06 LOCAL CONTEXT COMPILER — PROCEDURES
+# 11 PROCEDURES
 
 ## METADATA // 00
 
 - MACHINES FOR THINKING
-- LOCAL CONTEXT COMPILER
-- PROCEDURES (SECOND-ORDER TOKENS)
-- DERIVATIVE CORPUS: EARMARK OPEN INTELLIGENCE PROTOCOL (OPENIP) v1.0 (FEBRUARY 2026)
+- LOCAL CONTEXT COMPILER PROTOCOL
+- PROCEDURES
+- SECOND-ORDER TOKENS
 - AUTHOR: MIKHAIL SHAKHNAZAROV
 - DATE: FEBRUARY 2026
 - LICENSE: CC BY-SA 4.0
+- https://creativecommons.org/licenses/by-sa/4.0/
 
 ## PROCEDURE: INGEST (AIRLOCK) // 01
 
@@ -105,5 +106,5 @@ Acceptance criteria:
 - promotion is an explicit event with recorded rationale;
 - post-promotion artifacts remain inspectable and reversible by explicit patching.
 
-CC BY-SA 4.0 — Mikhail Shakhnazarov, February 2026
+CC BY-SA 4.0 - Mikhail Shakhnazarov, February 2026
 
