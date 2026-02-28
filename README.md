@@ -10,7 +10,7 @@ A note from the author: work is a process. Programming governance structures in 
 
 One switch makes all the difference here: you need to switch from having a conversation with an LLM runtime to **instructing** the LLM runtime. That change takes a bit of perspective shifting, but once you are there, there is no going back.
 
-I don't think this technology should be free. I strongly believe this is just a form of literacy and knowledge should be free. Pay attention to the licensing when forking.
+I think this technology should be free. I strongly believe this is just a form of literacy and knowledge should be free. Pay attention to the licensing when forking.
 
 In the meantime, [hire me](https://www.linkedin.com/in/shakhnazarov/) to build a personalized procedural pipeline and intelligence corpus for you and your organization **and also** see me on [patreon](https://www.patreon.com/c/earmark/membership). 
 
