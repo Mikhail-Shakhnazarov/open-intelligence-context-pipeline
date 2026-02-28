@@ -1,4 +1,4 @@
-﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Personal path quickstart (single operator) for running the Local Context Pipeline Protocol.
 Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
@@ -15,7 +15,7 @@ The kernel is a three-file set per session:
 
 ## Minimal setup
 
-Create an operator store (local folder, private repo, or internal KB) that will hold durable registries and prior packet sets. Copy `starter-kit/` into that operator store.
+Create an operator vault (local folder, private repo, or internal KB) that will hold durable registries and prior packet sets. Copy `starter-kit/` into that operator vault.
 
 Durable registries start small. A minimal set is:
 
@@ -35,4 +35,6 @@ Durable registries start small. A minimal set is:
 ## Keep it governed (minimal overhead)
 
 The workflow drifts when provisional content becomes durable by inertia. The simplest stabilizer is a short review cadence (weekly is enough): accept/reject proposals into registries and prune duplicates. No other ceremony is required.
+
+
 

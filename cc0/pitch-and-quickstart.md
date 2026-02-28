@@ -19,7 +19,7 @@ This produces a simple but enforceable rule: nothing becomes durable because it 
 
 ## Quick start (copy/paste workflow)
 
-1. Keep an operator store (private repo, local folder, or internal knowledge base) that holds durable registries and prior packet sets.
+1. Keep an operator vault (private repo, local folder, or internal knowledge base) that holds durable registries and prior packet sets.
 2. For a task, create a new packet set (three files) using the templates in `starter-kit/`.
 3. Populate `context_packet.md` with only the records eligible for the task boundary (private vs personal; internal vs external).
 4. Populate `selection_trace.md` with a short justification and evidence pointer for each included record.
@@ -30,3 +30,5 @@ This produces a simple but enforceable rule: nothing becomes durable because it 
 ## Where the rules live
 
 Normative requirements, definitions, and conformance live in `protocol/normative/`. Plain-language mirror: `protocol/plain-language/`. This page is non-normative and is meant to be copied into internal documents.
+
+

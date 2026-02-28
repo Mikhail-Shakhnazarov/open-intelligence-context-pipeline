@@ -1,4 +1,4 @@
-﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative starter registry template for boundary posture and eligibility for emission.
 Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in the parent directory.
@@ -23,7 +23,7 @@ A compact statement of what is considered private and what is eligible for exter
 
 ## Default
 
-- Everything in the operator store is treated as **private** unless explicitly classified otherwise.
+- Everything in the operator vault is treated as **private** unless explicitly classified otherwise.
 - External packets must contain only eligible material.
 
 ## Eligibility (examples)
@@ -40,4 +40,6 @@ Not eligible:
 - internal financials,
 - credentials,
 - anything covered by NDA, contract, or policy.
+
+
 

@@ -33,7 +33,7 @@ Keep this list generic. It is a reminder, not a data collection step.
 
 - Packet: in the artifact labels at the top of `context_packet.md`.
 - Selection log: in `selection_trace.md` (selection log), record which boundary was applied and why exclusions happened.
-- Durable policy: in `starter-kit/registries/boundary_policy.md` (or an equivalent registry in the operator store).
+- Durable policy: in `starter-kit/registries/boundary_policy.md` (or an equivalent registry in the operator vault).
 
 ## A simple external rule
 
@@ -44,3 +44,5 @@ If a packet is intended for an external audience, add an explicit allowlist sent
 If that sentence cannot be written honestly, treat the packet as private/internal.
 
 Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0
+
+

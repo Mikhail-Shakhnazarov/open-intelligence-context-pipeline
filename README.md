@@ -45,7 +45,7 @@ Two equal entrypoints:
 - Personal path (single operator): `docs/personal-quickstart.md`
 - Team path (shared outputs + personal userland): `docs/team-quickstart.md`
 
-1. Copy `starter-kit/` into an operator store (a local folder, a private repo, or an internal knowledge base).
+1. Copy `starter-kit/` into an operator vault (a local folder, a private repo, or an internal knowledge base).
 2. For a task, fill a **context packet set** (three files) using the templates.
 3. Run the session using the packet as the only briefing material.
 4. After the session, keep outputs and produce **update proposals** (still provisional).
@@ -63,3 +63,5 @@ This repository uses a split license strategy (see `LICENSE.md`):
 - `cc0/` is CC0 1.0 (explicitly for internal copy/paste).
 
 Copyright (c) 2026 Mikhail Shakhnazarov
+
+

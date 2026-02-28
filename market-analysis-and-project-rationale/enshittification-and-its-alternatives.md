@@ -6,7 +6,7 @@ Copyright (c) 2026 Mikhail Shakhnazarov
 
 ---
 
-## Problem: The Enshittification Arc for Assistants
+## Problem: The Enshittification of Assistants
 
 Assume a consumer-facing assistant at scale: web/app surface, subscriptions, an API, strong incentive to maximize retention and ARPU, and only law/PR as binding constraints. The trajectory rhymes with social media because the control variable is the same: attention -> retention -> monetization.
 
@@ -68,7 +68,7 @@ The tells are consistent across vendors:
 
 ---
 
-## The Pivot: Private Context Arc
+## The Pivot: Switch to Private Context
 
 The crucial difference from Facebook is that assistants lack the same unavoidable network-effect lock-in. A private assistant does not require other humans to function; it requires one person's world.
 
