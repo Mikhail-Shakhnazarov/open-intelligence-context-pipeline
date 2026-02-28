@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If this repository is used in research or documentation, please cite it."
-title: "Local Context Pipeline Protocol"
+title: "Open Intelligence Context Pipeline (Local Context Pipeline Protocol)"
 authors:
   - family-names: "Shakhnazarov"
     given-names: "Mikhail"

@@ -1,4 +1,4 @@
-# Local Context Pipeline Protocol (text-first)
+# Open Intelligence Context Pipeline (Local Context Pipeline Protocol)
 
 This repository contains a text-defined workflow for **governed assistant work**.
 
