@@ -25,6 +25,10 @@ No. For a single operator, most structure can be invented ad hoc. What cannot be
 
 Everything else can be light.
 
+## "Does this work for teams?"
+
+Yes. The team case is the single-operator case plus coordination on shared durable artifacts: a shared store for team registries, an agreed ratification rule for update proposals, and explicit boundary rules for what can be shared vs what remains in member userland.
+
 ## "Is this a safety or compliance product?"
 
 No. This repository is a workflow protocol. It can support compliance work by creating auditable artifacts, but it is not legal advice and it does not replace organizational policy.

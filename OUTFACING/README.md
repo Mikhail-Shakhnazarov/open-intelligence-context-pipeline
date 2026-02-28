@@ -6,7 +6,7 @@ This repository contains a text-defined workflow for **governed assistant work**
 
 "Governed" here does not mean corporate policy claims or vendor assurances. It means: the working state is kept as **operator-owned artifacts** with explicit boundaries and explicit change-control, so assistant use becomes inspectable, portable, and reviewable across runtimes.
 
-The protocol is intentionally boring on purpose: it treats continuity as paperwork.
+The protocol is deliberately procedural: continuity is maintained through explicit artifacts rather than implicit tool "memory".
 
 ## What gets produced every session
 
@@ -20,7 +20,7 @@ The set is the governance unit. Packet-only workflows drift into opaque selectio
 
 ## When this matters (economic + organizational context)
 
-Vendor "memory" is a switching-cost mechanism. Corporate accounts can reduce some categories of risk, but they do not solve:
+Vendor "memory" increases switching costs. Corporate accounts can reduce some categories of risk, but they do not solve:
 
 - accidental canon formation ("we wrote it once so it became true later"),
 - boundary leaks (confidential material pasted into the wrong surface),
@@ -39,6 +39,11 @@ This protocol makes the *selection and promotion steps visible*.
 - `cc0/` -- a copy/paste pitch + quickstart intended for internal documentation reuse.
 
 ## Quick start
+
+Two equal entrypoints:
+
+- Personal path (single operator): `docs/personal-quickstart.md`
+- Team path (shared outputs + personal userland): `docs/team-quickstart.md`
 
 1. Copy `starter-kit/` into an operator store (a local folder, a private repo, or an internal knowledge base).
 2. For a task, fill a **context packet set** (three files) using the templates.

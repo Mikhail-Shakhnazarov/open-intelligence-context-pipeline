@@ -5,6 +5,8 @@ See: LICENSE.md in this directory.
 
 # Single-operator adaptation (ad hoc without collapse)
 
+This note belongs to the personal path. Start at `docs/personal-quickstart.md` for the minimal end-to-end workflow.
+
 A single operator can invent structure on the fly. The danger is not improvisation; the danger is losing invariants.
 
 Keep these invariants even when inventing everything else:

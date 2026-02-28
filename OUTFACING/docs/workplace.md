@@ -5,6 +5,8 @@ See: LICENSE.md in this directory.
 
 # Workplace use and boundaries
 
+This note belongs to the team path. Start at `docs/team-quickstart.md` for the minimal end-to-end workflow.
+
 Work material is often not "personal" but still must be treated as **private**: confidential projects, internal numbers, client data, credentials, regulated material, or any content covered by policy or contract.
 
 This protocol uses "private" as a custody category: material that must remain operator-/organization-controlled and is prohibited from external emission by default.
