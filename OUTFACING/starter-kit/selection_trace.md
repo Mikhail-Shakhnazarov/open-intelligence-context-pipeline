@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative template for producing a selection trace (receipt for inclusions/exclusions).
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # selection_trace.md (template)
@@ -33,3 +33,4 @@ MAJOR EXCLUSIONS (OPTIONAL):
   - RECORD_ID: <...>
     Why excluded: <reason>
     Risk/impact: <what changes because it was excluded>
+

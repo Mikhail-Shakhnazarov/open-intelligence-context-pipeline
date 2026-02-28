@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative template for proposing durable updates after a session (non-binding until ratified).
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # update_proposals.md (template)
@@ -32,3 +32,4 @@ RATIFICATION LOG (OPTIONAL):
     Outcome: <accepted / rejected / deferred>
     Date:
     Notes: *<brief reason>*
+

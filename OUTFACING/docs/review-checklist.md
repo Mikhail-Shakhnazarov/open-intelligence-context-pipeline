@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative checklist for reviewing and ratifying update proposals.
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # Review checklist (proposal ratification)
@@ -31,3 +31,4 @@ If registries grow, the system becomes expensive. Pruning is part of governance:
 - delete stale preferences,
 - move uncertain items back to provisional status,
 - tighten boundaries where needed.
+

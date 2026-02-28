@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Team path quickstart (shared outputs + personal userland) for running the Local Context Pipeline Protocol.
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # Team quickstart (shared outputs + personal userland)
@@ -31,3 +31,4 @@ The team shared store is a coordination interface, not a compliance product. It 
 ## Promotion discipline (what makes it "team" rather than "personal")
 
 The main failure mode is unreviewed promotion: a draft becomes "the team's truth" because it was repeated. The team path prevents this by making promotion explicit: update proposals remain non-binding until ratified into the shared store.
+

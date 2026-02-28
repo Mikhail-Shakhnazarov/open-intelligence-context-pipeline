@@ -29,5 +29,4 @@ This produces a simple but enforceable rule: nothing becomes durable because it 
 
 ## Where the rules live
 
-Normative requirements, definitions, and conformance live in `protocol/`. This page is non-normative and is meant to be copied into internal documents.
-
+Normative requirements, definitions, and conformance live in `protocol/normative/`. Plain-language mirror: `protocol/plain-language/`. This page is non-normative and is meant to be copied into internal documents.

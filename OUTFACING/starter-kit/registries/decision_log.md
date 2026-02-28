@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative starter registry template for durable governance-relevant decisions.
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in the parent directory.
 
 # registries/decision_log.md
@@ -29,3 +29,4 @@ A durable log of governance-relevant decisions: boundary changes, rule changes, 
   - Decision: <what changed>
   - Reason: <why>
   - Evidence pointer: <meeting note, policy text, etc.>
+

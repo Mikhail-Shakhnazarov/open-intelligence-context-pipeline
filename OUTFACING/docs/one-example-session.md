@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative pointer to a worked example session packet set (stakeholder memo).
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # Example session: stakeholder memo (worked set)
@@ -16,3 +16,4 @@ The example is intentionally small. In practice, the packet can reference many l
 - `update_proposals.md`
 
 See `examples/stakeholder-memo/`.
+

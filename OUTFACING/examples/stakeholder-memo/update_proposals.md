@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative worked example update proposals (stakeholder memo).
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in the parent directory.
 
 # update_proposals.md -- Stakeholder memo example
@@ -41,3 +41,4 @@ RATIFICATION LOG:
     Outcome: deferred
     Date: 2026-02-28
     Notes: *Confirm with project owner before adding recipient.*
+

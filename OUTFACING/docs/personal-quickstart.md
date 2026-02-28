@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Personal path quickstart (single operator) for running the Local Context Pipeline Protocol.
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # Personal quickstart (single operator)
@@ -35,3 +35,4 @@ Durable registries start small. A minimal set is:
 ## Keep it governed (minimal overhead)
 
 The workflow drifts when provisional content becomes durable by inertia. The simplest stabilizer is a short review cadence (weekly is enough): accept/reject proposals into registries and prune duplicates. No other ceremony is required.
+

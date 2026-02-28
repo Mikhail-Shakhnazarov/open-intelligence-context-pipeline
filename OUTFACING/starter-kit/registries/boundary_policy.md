@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative starter registry template for boundary posture and eligibility for emission.
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in the parent directory.
 
 # registries/boundary_policy.md
@@ -40,3 +40,4 @@ Not eligible:
 - internal financials,
 - credentials,
 - anything covered by NDA, contract, or policy.
+

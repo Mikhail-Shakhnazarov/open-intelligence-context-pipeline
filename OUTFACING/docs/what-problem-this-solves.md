@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative overview of the governance problems the protocol solves.
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # What problem this solves
@@ -27,3 +27,4 @@ These artifacts turn "memory" from a vendor feature into an operator-controlled 
 - The long-term store stays small and curated.
 - The boundary rules become simple checks rather than social promises.
 - Runtime swaps stop being existential events; the brief format remains stable.
+

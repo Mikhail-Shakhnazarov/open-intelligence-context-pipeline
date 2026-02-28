@@ -1,6 +1,6 @@
 # Enshittification and Its Alternatives
 
-> NON-NORMATIVE: Background essay. Normative requirements live in `protocol/`.
+> NON-NORMATIVE: Background essay. Normative requirements live in `protocol/normative/`. Plain-language mirror: `protocol/plain-language/`.
 
 Copyright (c) 2026 Mikhail Shakhnazarov
 

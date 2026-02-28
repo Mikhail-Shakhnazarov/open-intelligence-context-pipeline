@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative guidance for using the protocol ad hoc as a single operator without losing invariants.
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # Single-operator adaptation (ad hoc without collapse)
@@ -17,3 +17,4 @@ Keep these invariants even when inventing everything else:
 - No silent promotion of proposals into durable registries.
 
 Everything beyond that can be invented per project.
+

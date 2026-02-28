@@ -9,7 +9,9 @@ Unless a directory has its own `LICENSE.md`, files are licensed under **Creative
 
 ## Directory license map
 
-- `protocol/`: CC BY-SA 4.0 (normative protocol corpus).
+- `protocol/`: CC BY-SA 4.0 (protocol editions directory).
+- `protocol/normative/`: CC BY-SA 4.0 (authoritative edition).
+- `protocol/plain-language/`: CC BY-SA 4.0 (plain-language mirror; non-authoritative).
 - `docs/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `docs/LICENSE.md`).
 - `analysis/`: CC BY-SA 4.0 (reciprocal essays and background).
 - `starter-kit/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `starter-kit/LICENSE.md`).

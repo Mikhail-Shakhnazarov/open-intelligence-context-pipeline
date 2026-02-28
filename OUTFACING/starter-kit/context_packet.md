@@ -1,6 +1,6 @@
-SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
 Summary: Non-normative template for producing a context packet (one file in a packet set).
-Normative: Requirements and definitions live in `protocol/` (this repository).
+Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 
 # context_packet.md (template)
@@ -38,3 +38,4 @@ OUTPUT REQUEST:
   - Deliverable: <what should be produced>
   - Format: <bullets, memo, table, etc.>
   - Constraints: <deadline, audience, length>
+

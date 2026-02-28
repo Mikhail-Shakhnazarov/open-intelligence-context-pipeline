@@ -2,7 +2,7 @@
 
 This repository contains a text-defined workflow for **governed assistant work**.
 
-> NON-NORMATIVE: This README is informational. Normative requirements live in `protocol/`.
+> NON-NORMATIVE: This README is informational. Normative requirements live in `protocol/normative/`. Plain-language mirror: `protocol/plain-language/`.
 
 "Governed" here does not mean corporate policy claims or vendor assurances. It means: the working state is kept as **operator-owned artifacts** with explicit boundaries and explicit change-control, so assistant use becomes inspectable, portable, and reviewable across runtimes.
 
@@ -31,7 +31,7 @@ This protocol makes the *selection and promotion steps visible*.
 
 ## Repository layout
 
-- `protocol/` -- the normative corpus (routing labels, obligations, procedures, conformance).
+- `protocol/` -- protocol editions (normative corpus + plain-language mirror).
 - `starter-kit/` -- minimal templates and registries for a single operator.
 - `examples/` -- small worked examples (brief + receipt + change requests).
 - `docs/` -- practical notes for workplace use.

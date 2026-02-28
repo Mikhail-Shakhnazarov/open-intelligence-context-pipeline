@@ -9,3 +9,8 @@ Thumbs.db
 # Local stores / generated
 *.zip
 *.tmp
+
+# Protocol normalization
+# The repository uses `protocol/normative/` and `protocol/plain-language/`.
+# Do not track legacy numbered files at `protocol/NN_*.md`.
+protocol/[0-9][0-9]_*.md
