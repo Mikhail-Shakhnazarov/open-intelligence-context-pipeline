@@ -1,6 +1,9 @@
-# Starter kit
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative templates and starter registries for the Local Context Pipeline Protocol.
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in this directory.
 
-> NON-NORMATIVE: Templates and starter registries. Normative requirements live in `protocol/`.
+# Starter kit
 
 This folder is meant to be copied into an operator-owned store.
 
@@ -11,5 +14,3 @@ The starter kit contains:
 - a lightweight boundary policy.
 
 The starter kit is intentionally sparse. The protocol's invariants do the work; the rest can be invented.
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

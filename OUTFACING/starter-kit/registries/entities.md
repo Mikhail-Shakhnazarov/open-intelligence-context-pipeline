@@ -1,6 +1,9 @@
-# registries/entities.md
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative starter registry template for durable entity and project references.
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in the parent directory.
 
-> NON-NORMATIVE TEMPLATE: Starter registry. Normative requirements live in `protocol/`.
+# registries/entities.md
 
 ROUTING_LABELS:
   Authority: local_rule
@@ -34,5 +37,3 @@ A durable index of people, projects, systems, and recurring artifacts referenced
 - PRJ-001 -- <project name>
   - Notes: *<one paragraph>*
   - Constraints: *<confidentiality, deadlines>*
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

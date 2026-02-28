@@ -1,9 +1,20 @@
 # License
 
-This repository is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+This repository uses a split license strategy.
+
+Unless a directory has its own `LICENSE.md`, files are licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
 
 - License deed and legal code: https://creativecommons.org/licenses/by-sa/4.0/
 - Attribution: **Mikhail Shakhnazarov**
+
+## Directory license map
+
+- `protocol/`: CC BY-SA 4.0 (normative protocol corpus).
+- `docs/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `docs/LICENSE.md`).
+- `analysis/`: CC BY-SA 4.0 (reciprocal essays and background).
+- `starter-kit/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `starter-kit/LICENSE.md`).
+- `examples/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `examples/LICENSE.md`).
+- `cc0/`: CC0 1.0 (copy/paste pack; see `cc0/LICENSE.md`).
 
 ## Notes
 

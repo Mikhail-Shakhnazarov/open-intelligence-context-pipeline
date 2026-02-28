@@ -1,6 +1,9 @@
-# context_packet.md (template)
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative template for producing a context packet (one file in a packet set).
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in this directory.
 
-> NON-NORMATIVE TEMPLATE: Starting point template. Normative requirements live in `protocol/`.
+# context_packet.md (template)
 
 ROUTING_LABELS:
   Authority: local_rule

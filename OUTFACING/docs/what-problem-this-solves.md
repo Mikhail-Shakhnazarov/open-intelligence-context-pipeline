@@ -1,6 +1,9 @@
-# What problem this solves
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative overview of the governance problems the protocol solves.
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in this directory.
 
-> NON-NORMATIVE: Practical notes. Normative requirements live in `protocol/`.
+# What problem this solves
 
 Assistants are good at producing text. The recurring failures are governance failures: ambiguity about what is authoritative, what is private, and what is allowed to persist.
 
@@ -24,5 +27,3 @@ These artifacts turn "memory" from a vendor feature into an operator-controlled 
 - The long-term store stays small and curated.
 - The boundary rules become simple checks rather than social promises.
 - Runtime swaps stop being existential events; the brief format remains stable.
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

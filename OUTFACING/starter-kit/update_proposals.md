@@ -1,6 +1,9 @@
-# update_proposals.md (template)
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative template for proposing durable updates after a session (non-binding until ratified).
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in this directory.
 
-> NON-NORMATIVE TEMPLATE: Starting point template. Normative requirements live in `protocol/`.
+# update_proposals.md (template)
 
 ROUTING_LABELS:
   Authority: local_rule

@@ -17,7 +17,7 @@ This corpus is licensed under Creative Commons Attribution-ShareAlike 4.0 Intern
 
 This corpus is historically derived from OpenIP v1.0 (February 2026) and related work. ShareAlike applies. Attribution: Mikhail Shakhnazarov, February 2026.
 
-This license applies to the text artifacts in this repository (including `protocol/`, `docs/`, `examples/`, `starter-kit/`, and `analysis/`). Software code (if added later) should be placed under a separate directory boundary and licensed under a conventional software license to avoid ambiguity.
+This license applies to the normative protocol corpus in `protocol/` (and other repository text unless a directory declares a different license via its own `LICENSE.md`). See `../LICENSE.md` for the repository license map. Software code (if added later) should be placed under a separate directory boundary and licensed under a conventional software license to avoid ambiguity.
 
 Trademark boundary: CC BY-SA grants no trademark rights. Nominative reference is permitted (e.g., "compatible with the Local Context Pipeline protocol") provided it does not imply sponsorship, endorsement, or an official relationship.
 

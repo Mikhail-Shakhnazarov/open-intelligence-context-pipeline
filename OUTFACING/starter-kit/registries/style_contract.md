@@ -1,6 +1,9 @@
-# registries/style_contract.md
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative starter registry template for style requirements and forbidden moves.
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in the parent directory.
 
-> NON-NORMATIVE TEMPLATE: Starter registry. Normative requirements live in `protocol/`.
+# registries/style_contract.md
 
 ROUTING_LABELS:
   Authority: local_rule
@@ -34,5 +37,3 @@ A durable statement of required style and forbidden moves for assistant output i
 
 - Use headings only when necessary.
 - Lists only for discrete options or procedural steps.
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

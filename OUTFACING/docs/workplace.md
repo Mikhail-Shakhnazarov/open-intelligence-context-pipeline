@@ -1,6 +1,9 @@
-# Workplace use and boundaries
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative guidance for workplace boundary posture when using the Local Context Pipeline Protocol.
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in this directory.
 
-> NON-NORMATIVE: Practical notes. Normative requirements live in `protocol/`.
+# Workplace use and boundaries
 
 Work material is often not "personal" but still must be treated as **private**: confidential projects, internal numbers, client data, credentials, regulated material, or any content covered by policy or contract.
 
@@ -25,5 +28,3 @@ Governance is a workflow property, not a vendor property.
 ## Not legal advice
 
 This repository provides a workflow protocol, not legal or compliance advice. Organizational counsel and policy owners determine what is allowed to leave the boundary.
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

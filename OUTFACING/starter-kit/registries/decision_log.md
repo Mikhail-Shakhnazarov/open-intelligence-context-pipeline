@@ -1,6 +1,9 @@
-# registries/decision_log.md
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative starter registry template for durable governance-relevant decisions.
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in the parent directory.
 
-> NON-NORMATIVE TEMPLATE: Starter registry. Normative requirements live in `protocol/`.
+# registries/decision_log.md
 
 ROUTING_LABELS:
   Authority: local_rule
@@ -26,5 +29,3 @@ A durable log of governance-relevant decisions: boundary changes, rule changes, 
   - Decision: <what changed>
   - Reason: <why>
   - Evidence pointer: <meeting note, policy text, etc.>
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

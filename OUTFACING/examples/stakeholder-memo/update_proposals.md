@@ -1,6 +1,9 @@
-# update_proposals.md -- Stakeholder memo example
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative worked example update proposals (stakeholder memo).
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in the parent directory.
 
-> NON-NORMATIVE EXAMPLE: Worked example proposals. Normative requirements live in `protocol/`.
+# update_proposals.md -- Stakeholder memo example
 
 ROUTING_LABELS:
   Authority: local_rule

@@ -36,6 +36,7 @@ This protocol makes the *selection and promotion steps visible*.
 - `examples/` -- small worked examples (brief + receipt + change requests).
 - `docs/` -- practical notes for workplace use.
 - `analysis/` -- background reasoning and incentives framing.
+- `cc0/` -- a copy/paste pitch + quickstart intended for internal documentation reuse.
 
 ## Quick start
 
@@ -49,5 +50,11 @@ This is meant to be usable ad hoc by a single operator. The invariants are minim
 
 ## License and attribution
 
-The protocol text and repository documentation are licensed **CC BY-SA 4.0** (see `LICENSE.md`).
+This repository uses a split license strategy (see `LICENSE.md`):
+
+- `protocol/` and `analysis/` are CC BY-SA 4.0.
+- `docs/` is dual-licensed: CC BY-SA 4.0 OR CC0 1.0.
+- `starter-kit/` and `examples/` are dual-licensed: CC BY-SA 4.0 OR CC0 1.0.
+- `cc0/` is CC0 1.0 (explicitly for internal copy/paste).
+
 Copyright (c) 2026 Mikhail Shakhnazarov

@@ -1,6 +1,9 @@
-# Single-operator adaptation (ad hoc without collapse)
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative guidance for using the protocol ad hoc as a single operator without losing invariants.
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in this directory.
 
-> NON-NORMATIVE: Practical notes. Normative requirements live in `protocol/`.
+# Single-operator adaptation (ad hoc without collapse)
 
 A single operator can invent structure on the fly. The danger is not improvisation; the danger is losing invariants.
 
@@ -12,5 +15,3 @@ Keep these invariants even when inventing everything else:
 - No silent promotion of proposals into durable registries.
 
 Everything beyond that can be invented per project.
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

@@ -1,6 +1,9 @@
-# Example session: stakeholder memo (worked set)
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative pointer to a worked example session packet set (stakeholder memo).
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in this directory.
 
-> NON-NORMATIVE: Worked example pointer. Normative requirements live in `protocol/`.
+# Example session: stakeholder memo (worked set)
 
 This example shows the three canonical outputs for one task: drafting a stakeholder memo under a style guide, with bounded context and explicit change requests.
 
@@ -13,5 +16,3 @@ The example is intentionally small. In practice, the packet can reference many l
 - `update_proposals.md`
 
 See `examples/stakeholder-memo/`.
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

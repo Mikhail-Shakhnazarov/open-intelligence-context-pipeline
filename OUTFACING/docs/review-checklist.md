@@ -1,6 +1,9 @@
-# Review checklist (proposal ratification)
+SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
+Summary: Non-normative checklist for reviewing and ratifying update proposals.
+Normative: Requirements and definitions live in `protocol/` (this repository).
+See: LICENSE.md in this directory.
 
-> NON-NORMATIVE: Practical notes. Normative requirements live in `protocol/`.
+# Review checklist (proposal ratification)
 
 A governed workflow becomes real only if update proposals are reviewed and either accepted or rejected.
 
@@ -28,5 +31,3 @@ If registries grow, the system becomes expensive. Pruning is part of governance:
 - delete stale preferences,
 - move uncertain items back to provisional status,
 - tighten boundaries where needed.
-
-Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0

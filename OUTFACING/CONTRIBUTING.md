@@ -21,6 +21,6 @@ Contributions are welcome if they improve clarity, testability, and real-world u
 
 ## Attribution
 
-Contributions will be credited under CC BY-SA 4.0.
+Contributions are accepted under the license(s) that apply to the target directory (see `LICENSE.md` and any directory `LICENSE.md`).
 
 Copyright (c) 2026 Mikhail Shakhnazarov -- CC BY-SA 4.0
