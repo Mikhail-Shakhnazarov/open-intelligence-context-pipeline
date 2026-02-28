@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If this repository is used in research or documentation, please cite it."
+title: "Local Context Pipeline Protocol"
+authors:
+  - family-names: "Shakhnazarov"
+    given-names: "Mikhail"
+license: "CC-BY-SA-4.0"
+date-released: "2026-02-01"
