@@ -17,6 +17,7 @@ Unless a directory has its own `LICENSE.md`, files are licensed under **Creative
 - `starter-kit/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `starter-kit/LICENSE.md`).
 - `examples/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `examples/LICENSE.md`).
 - `cc0/`: CC0 1.0 (copy/paste pack; see `cc0/LICENSE.md`).
+- `tools/`: CC BY-SA 4.0 (optional helpers; see `tools/README.md`).
 
 ## Notes
 

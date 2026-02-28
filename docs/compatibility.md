@@ -18,6 +18,8 @@ A compatible workflow:
    - `selection_trace.md` (selection log; selection trace)
    - `update_proposals.md`
 
+   File naming rule: `selection_trace.md` is the canonical filename for the selection log. Do not rename it to `selection_log.md` (or other variants) if portability is a goal.
+
 2. Treats the selection log as mandatory.
    - If there is no selection log, the packet is not considered valid.
 
