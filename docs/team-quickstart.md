@@ -5,7 +5,7 @@ See: LICENSE.md in this directory.
 
 # Team quickstart (shared outputs + personal userland)
 
-The team path is the personal path plus coordination on shared artifacts. The kernel stays unchanged: each session produces a bounded packet, a receipt, and explicit update proposals. The additional discipline is that the team agrees on what is shared, who can ratify updates, and what is prohibited from crossing boundaries.
+The team path is the personal path plus coordination on shared artifacts. The kernel stays unchanged: each session produces a bounded packet, a selection log (selection trace), and explicit update proposals. The additional discipline is that the team agrees on what is shared, who can ratify updates, and what is prohibited from crossing boundaries.
 
 Two stores exist in parallel:
 

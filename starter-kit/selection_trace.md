@@ -1,5 +1,5 @@
 ﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
-Summary: Non-normative template for producing a selection trace (receipt for inclusions/exclusions).
+Summary: Non-normative template for producing a selection log (selection trace).
 Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in this directory.
 

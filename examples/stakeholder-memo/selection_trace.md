@@ -1,9 +1,9 @@
 ﻿SPDX-License-Identifier: CC-BY-SA-4.0 OR CC0-1.0
-Summary: Non-normative worked example selection trace (stakeholder memo).
+Summary: Non-normative worked example selection log (selection trace) (stakeholder memo).
 Normative: Requirements and definitions live in `protocol/normative/` (this repository).
 See: LICENSE.md in the parent directory.
 
-# selection_trace.md -- Stakeholder memo example
+# selection_trace.md -- Stakeholder memo example (selection log)
 
 ROUTING_LABELS:
   Authority: local_rule

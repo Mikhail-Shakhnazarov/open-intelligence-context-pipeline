@@ -5,7 +5,7 @@
 Corporate and vendor safeguards mostly address storage and account access. Governance addresses *workflow authority*:
 
 - **No silent promotion.** Suggestions do not become "truth" by repetition or by being stored.
-- **Receipts.** A selection trace exists for what was shown to the assistant and why.
+- **Selection logs.** A selection log (selection trace) exists for what was shown to the assistant and why.
 - **Boundaries that can be checked.** Confidential material is treated as "private" by default; emission is prohibited unless explicitly reclassified.
 - **Portability.** The working state lives in artifacts, not in vendor memory.
 
@@ -13,7 +13,7 @@ In short: enterprise accounts can help with privacy; governance helps with *drif
 
 ## "Does this make model output compatible across vendors?"
 
-It makes the **working format around the model** compatible: the brief, the receipt, and the change requests. The runtime remains different, but continuity and review are no longer vendor-owned.
+It makes the **working format around the model** compatible: the brief, the selection log, and the update proposals. The runtime remains different, but continuity and review are no longer vendor-owned.
 
 ## "Are rigid templates required?"
 

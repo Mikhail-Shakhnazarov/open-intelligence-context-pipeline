@@ -10,7 +10,7 @@ The personal path keeps assistant continuity in explicit, operator-owned artifac
 The kernel is a three-file set per session:
 
 - `context_packet.md`: the bounded brief that is fed to the runtime.
-- `selection_trace.md`: why each item was included (a receipt).
+- `selection_trace.md`: the selection log (selection trace): why each item was included.
 - `update_proposals.md`: suggested durable updates, explicitly non-binding until ratified.
 
 ## Minimal setup

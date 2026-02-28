@@ -14,7 +14,7 @@ Contributions are welcome if they improve clarity, testability, and real-world u
 
 ## Suggested contribution types
 
-- additional worked examples (brief + receipt + change requests),
+- additional worked examples (brief + selection log (selection trace) + update proposals),
 - workplace boundary patterns,
 - conformance fixtures and checklists,
 - improvements to starter-kit templates.

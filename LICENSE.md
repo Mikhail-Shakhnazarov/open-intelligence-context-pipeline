@@ -13,7 +13,7 @@ Unless a directory has its own `LICENSE.md`, files are licensed under **Creative
 - `protocol/normative/`: CC BY-SA 4.0 (authoritative edition).
 - `protocol/plain-language/`: CC BY-SA 4.0 (plain-language mirror; non-authoritative).
 - `docs/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `docs/LICENSE.md`).
-- `analysis/`: CC BY-SA 4.0 (reciprocal essays and background).
+- `market-analysis-and-project-rationale/`: CC BY-SA 4.0 (reciprocal essays and background).
 - `starter-kit/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `starter-kit/LICENSE.md`).
 - `examples/`: CC BY-SA 4.0 OR CC0 1.0 (dual-licensed; see `examples/LICENSE.md`).
 - `cc0/`: CC0 1.0 (copy/paste pack; see `cc0/LICENSE.md`).

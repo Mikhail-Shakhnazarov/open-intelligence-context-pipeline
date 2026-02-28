@@ -13,7 +13,7 @@ The protocol is deliberately procedural: continuity is maintained through explic
 The canonical output is a set of three files:
 
 - **Context packet** (`context_packet.md`): the bounded brief given to the runtime.
-- **Selection trace** (`selection_trace.md`): why each item was included (a receipt).
+- **Selection log** (`selection_trace.md`; selection trace): why each item was included.
 - **Update proposals** (`update_proposals.md`): suggested long-term updates, explicitly non-binding until approved.
 
 The set is the governance unit. Packet-only workflows drift into opaque selection and silent hardening.
@@ -33,9 +33,9 @@ This protocol makes the *selection and promotion steps visible*.
 
 - `protocol/` -- protocol editions (normative corpus + plain-language mirror).
 - `starter-kit/` -- minimal templates and registries for a single operator.
-- `examples/` -- small worked examples (brief + receipt + change requests).
+- `examples/` -- small worked examples (brief + selection log + update proposals).
 - `docs/` -- practical notes for workplace use.
-- `analysis/` -- background reasoning and incentives framing.
+- `market-analysis-and-project-rationale/` -- background reasoning, incentives framing, and project rationale.
 - `cc0/` -- a copy/paste pitch + quickstart intended for internal documentation reuse.
 
 ## Quick start
@@ -57,7 +57,7 @@ This is meant to be usable ad hoc by a single operator. The invariants are minim
 
 This repository uses a split license strategy (see `LICENSE.md`):
 
-- `protocol/` and `analysis/` are CC BY-SA 4.0.
+- `protocol/` and `market-analysis-and-project-rationale/` are CC BY-SA 4.0.
 - `docs/` is dual-licensed: CC BY-SA 4.0 OR CC0 1.0.
 - `starter-kit/` and `examples/` are dual-licensed: CC BY-SA 4.0 OR CC0 1.0.
 - `cc0/` is CC0 1.0 (explicitly for internal copy/paste).

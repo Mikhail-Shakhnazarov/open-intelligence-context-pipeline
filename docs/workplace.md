@@ -21,7 +21,7 @@ This protocol uses "private" as a custody category: material that must remain op
 
 "Enterprise accounts" reduce some risk but do not create:
 
-- receipts for selection decisions,
+- selection logs for selection decisions,
 - prevention of promotion-by-inertia,
 - a portable continuity layer across tools and policy changes.
 

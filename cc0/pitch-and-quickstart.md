@@ -12,7 +12,7 @@ The point is not better prompting. The point is governance: making the assistant
 The canonical output per session is a three-file set:
 
 - `context_packet.md`: the bounded brief that is fed to the runtime.
-- `selection_trace.md`: a receipt for what was included and why.
+- `selection_trace.md`: a selection log (selection trace) of what was included and why.
 - `update_proposals.md`: change requests to durable state, explicitly non-binding until reviewed and accepted.
 
 This produces a simple but enforceable rule: nothing becomes durable because it was said once. Long-term "memory" is a curated store that changes only through explicit ratification.

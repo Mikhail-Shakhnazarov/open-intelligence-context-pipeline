@@ -10,7 +10,7 @@ Assistants are good at producing text. The recurring failures are governance fai
 This protocol makes three things explicit:
 
 1. **What the assistant saw** (a bounded brief).
-2. **Why it saw it** (a receipt / trace).
+2. **Why it saw it** (a selection log; selection trace).
 3. **What should change long-term** (proposals, pending approval).
 
 These artifacts turn "memory" from a vendor feature into an operator-controlled workflow.

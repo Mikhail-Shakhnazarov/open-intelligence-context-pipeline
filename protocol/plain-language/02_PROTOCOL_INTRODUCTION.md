@@ -14,7 +14,7 @@ The runtime is intentionally replaceable. Continuity lives in artifacts, not ins
 The canonical output is a three-file set:
 
 - Context packet: the bounded brief given to the runtime.
-- Selection log (selection trace): a receipt for what was included and why, plus major exclusions.
+- Selection log (selection trace): a short log of what was included and why, plus major exclusions.
 - Update proposals: suggested durable updates, explicitly non-binding until approved (ratified).
 
 The set is the governance unit. Packet-only workflows drift into opaque selection and silent hardening.
@@ -28,4 +28,3 @@ When assistant state is implicit or vendor-managed, continuity becomes hard to i
 - Long-term changes are explicit and reviewable (update proposals -> approval).
 
 Derived convenience layers (summaries, embeddings, indices) are treated as rebuildable indexes, not as authoritative truth.
-
