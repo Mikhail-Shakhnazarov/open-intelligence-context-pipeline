@@ -4,6 +4,8 @@ This repository contains a text-defined workflow for **governed assistant work**
 
 > NON-NORMATIVE: This README is informational. Normative requirements live in `protocol/normative/`. Plain-language mirror: `protocol/plain-language/`.
 
+---
+
 A note from the author: work is a process. Programming governance structures in natural language is fun, but it takes time. The assistant persona is not yet finalized, but any competent runtime will assume one when instructed, so feel free to just instruct the runtime to assist and follow protocol.
 
 One switch makes all the difference here: you need to switch from having a conversation with an LLM runtime to **instructing** the LLM runtime. That change takes a bit of perspective shifting, but once you are there, there is no going back.
@@ -13,6 +15,8 @@ I don't think this technology should be free. I strongly believe this is just a 
 In the meantime, [hire me](https://www.linkedin.com/in/shakhnazarov/) to build a personalized procedural pipeline and intelligence corpus for you and your organization **and also** see me on [patreon](https://www.patreon.com/c/earmark/membership). 
 
 More info on the Open Intelligence Protocol (OpenIP) project [here](https://earmark.build/)
+
+---
 
 "Governed" here does not mean corporate policy claims or vendor assurances. It means: the working state is kept as **operator-owned artifacts** with explicit boundaries and explicit change-control, so assistant use becomes inspectable, portable, and reviewable across runtimes.
 
